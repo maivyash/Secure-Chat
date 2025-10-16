@@ -117,12 +117,16 @@ SERVER
 ETHEREUM BLOCKCHAIN
  └── Smart Contracts
 ```
-```
+
 # Setup blockchain
+```
 cd blockchain
 npm install
 npx hardhat node
 npm run deploy:local
+```
 # Add MetaMask localhost network (Chain ID: 1337)
+```
 cd ..
 npm run dev
+```
