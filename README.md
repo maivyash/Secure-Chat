@@ -116,6 +116,7 @@ SERVER
        ↓
 ETHEREUM BLOCKCHAIN
  └── Smart Contracts
+```
 # Setup blockchain
 cd blockchain
 npm install
